@@ -62,10 +62,10 @@ set(HEADERS
 
 set(SOURCES
   src/main.cpp
-  src/main.qml
+  #src/main.qml
   src/device.cpp
   src/scanner.cpp
-  src/resources.qrc
+  qml/resources.qrc
 )
 
 set(EXECUTABLE_NAME ${PROJECT_NAME})

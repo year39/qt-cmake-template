@@ -1,27 +1,25 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-    </qresource>
-    <qresource prefix="/ui"/>
-    <qresource prefix="/ui/common">
+
+        <file>ui/pages/Header.qml</file>
+
         <file>ui/common/Colors.qml</file>
         <file>ui/common/Fonts.qml</file>
-    </qresource>
-    <qresource prefix="/ui/common/fonts/font-awesome">
+        <file>ui/common/qmldir</file>
+
         <file>ui/common/fonts/font-awesome/fa-brands-400.ttf</file>
         <file>ui/common/fonts/font-awesome/fa-regular-400.ttf</file>
         <file>ui/common/fonts/font-awesome/fa-solid-900.ttf</file>
-    </qresource>
-    <qresource prefix="/ui/common/fonts/line-awesome">
         <file>ui/common/fonts/line-awesome/la-brands-400.ttf</file>
         <file>ui/common/fonts/line-awesome/la-regular-400.ttf</file>
         <file>ui/common/fonts/line-awesome/la-solid-900.ttf</file>
-    </qresource>
-    <qresource prefix="/ui/common/fonts/open-sans">
         <file>ui/common/fonts/open-sans/OpenSans-Bold.ttf</file>
         <file>ui/common/fonts/open-sans/OpenSans-ExtraBold.ttf</file>
         <file>ui/common/fonts/open-sans/OpenSans-Light.ttf</file>
         <file>ui/common/fonts/open-sans/OpenSans-Medium.ttf</file>
         <file>ui/common/fonts/open-sans/OpenSans-Regular.ttf</file>
+
+        <file>ui/pages/Header.qml</file>
     </qresource>
 </RCC>
